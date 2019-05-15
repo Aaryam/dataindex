@@ -12,11 +12,11 @@
 <h2>Vision</h2>
 
 <p>Our vision is to ensure the future in the Entrepeneurs of tomorrow. We hope that the website will be used everyday, for uploading projects as well as giving feedback on them</p>
-<div style="display:inline;text-align:left; float: left;">
+
 <h2>Road</h2>
 
 <p float: left;>Basic HTML</p> <img src="checkmark.png" height="30px" width="30px" align=”right” float: right;>
-</div>
+
 
 
 
