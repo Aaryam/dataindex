@@ -3,7 +3,7 @@
 <br>
 <h2>About</h2>
 
-<p>Hexagon is a new endevour by Aaryam. Hexagon will be a data marketplace where one can buy, and sell data obtained from sources such as Market Research. This website will be safe and secure from any cyber-threats. This is intended to be project where data owners can sell and buy data freely, wherever and whenever.</p>
+<p>Hexagon is a new endevour by Aaryam. Hexagon will be a ratings website, where users can upload their new products, websites, apps, and more to find obtain a rating and even feedback! The Hexagon system will follow the simple 5-star rating system, this is to bring simplicity into the mix. The website is work-in-progress.</p>
 
 
 
