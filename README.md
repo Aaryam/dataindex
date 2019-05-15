@@ -15,7 +15,7 @@
 
 <h2>Road</h2>
 
-<p>Basic HTML</p> <img src="checkmark.png" height="30px" width="30px" align=”right” >
+<p float: left;>Basic HTML</p> <img src="checkmark.png" height="30px" width="30px" align=”right” float: right;>
 
 
 
