@@ -18,6 +18,18 @@
 <p>✔ Basic HTML</p>
 <br>
 <p>✖ HTML Complete</p>
+<br>
+<p>✖ Basic CSS</p>
+<br>
+<p>✖ CSS Complete</p>
+<br>
+<p>✖ Basic Javascript</p>
+<br>
+<p>✖ Javascript Complete</p>
+<br>
+<p>✖ Other requirements</p>
+<br>
+<p>✖ Project Complete</p>
 
 
 
