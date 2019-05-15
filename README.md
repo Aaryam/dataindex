@@ -15,7 +15,7 @@
 
 <h2>Road</h2>
 
-<img src="checkmark.png" height="30px" width="30px" right="60px"> <p                    >Basic HTML</p> 
+<img src="checkmark.png" height="30px" width="30px" right="60px"> <p>~ Basic HTML</p> 
 
 
 
